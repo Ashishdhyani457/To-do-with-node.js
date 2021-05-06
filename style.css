@@ -10,7 +10,7 @@ body{
 }
 .input-container{
     height: 20vh;
-    padding-top: 5vh;
+    /* padding-top: 5vh; */
 }
 .task-container{
     min-height: 80vh;
